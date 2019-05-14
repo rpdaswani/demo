@@ -1,1 +1,3 @@
-This is Ranjan Repo
+This is code is working with git now.
+
+thanks
